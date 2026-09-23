@@ -16,7 +16,7 @@
 	</style>
 
 	<body>
-		<h1>Gaurav Pawar</h1>
+		<h1>Gaurav</h1>
 		<div class="ex">
 			<form action="registrationController" method="post">
 				<table style="with: 50%">
